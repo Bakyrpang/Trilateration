@@ -1,2 +1,2 @@
 # Trilateration
-simple trilateration function for 2d plane
+simple trilateration function for a 2d plane
